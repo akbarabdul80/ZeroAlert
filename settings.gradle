@@ -1,0 +1,3 @@
+rootProject.name = "Alert By Zero"
+include ':app'
+include ':ZeroAlert-release'
